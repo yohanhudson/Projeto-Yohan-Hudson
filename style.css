@@ -1,0 +1,27 @@
+h1 {
+    color: dodgerblue; 
+    font-family: monospace
+}
+
+h3{
+    color: indigo; 
+    font-family: monospace
+}
+
+span{
+    color: dimgray; 
+    font-family: Arial; 
+    font-size: 18px
+}
+.destaque{
+    background-color: yellow
+}
+
+.container {
+    width: 80%
+}
+.title{
+    color: red;
+    margin: 5px;
+    font-family: Arial
+}
