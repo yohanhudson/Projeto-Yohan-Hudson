@@ -41,10 +41,11 @@ body{
 .banner{
     background-image: url('img/bg-jelly-fish-para_outras_pags.png');
     background-size: cover;
+    height: 500px;
 }
 
 .banner .container{
-    height: 550px;
+    height: 500px; 
     display: flex;
     color: white;
     align-items: center;
@@ -127,6 +128,7 @@ form button{
     justify-content: center;
     height: 50vh;
     width: 100;
+    padding: 200px 0;
 }
 
 .caixa .conteiner{
